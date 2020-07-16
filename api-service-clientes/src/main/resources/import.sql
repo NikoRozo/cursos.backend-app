@@ -1,0 +1,11 @@
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Nicolás', 'Rozo', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Manuel', 'Rodriguez', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Fernando', 'Osorio', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Diana', 'Alarcon', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Isabel', 'Bermudez', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Camilo', 'Silva', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Roberto', 'Guzman', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Jorge', 'Gomez', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('David', 'Beltran', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Sara', 'Leo', '2019-07-11', 'correo@email.com');
+INSERT INTO `db_sb_cloud`.`clients` (nombre, apellido, create_at, email) VALUES ('Yeimy', 'Espinosa', '2019-07-11', 'correo@email.com');
