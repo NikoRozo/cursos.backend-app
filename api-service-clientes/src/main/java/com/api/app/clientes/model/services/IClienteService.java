@@ -2,11 +2,16 @@ package com.api.app.clientes.model.services;
 
 import java.util.List;
 
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
 import com.api.app.clientes.model.entity.Cliente;
 
 public interface IClienteService {
 
 	public List<Cliente> findAll();
+	
+	public Page<Cliente> findAll(Pageable pageable);
 	
 	public Cliente findById(Long id);
 	
